@@ -1,17 +1,17 @@
 source 'https://rubygems.org'
 
+ruby '2.3.1'
 gem 'rails', '4.2.1'
 
 gem 'andand'
 gem 'best_in_place' # Allows inline editing
+gem 'bootstrap-datepicker-rails'
 gem 'cms-fortress', :path => 'vendor/gems/cms-fortress-1.3.9'
 gem 'coffee-rails', '~> 4.1.0'
 gem 'comfortable_mexican_sofa', '~> 1.12.0'
 gem 'comfy_blog', '~> 1.12.0'
 gem 'jbuilder', '~> 2.0'
 gem 'jquery-rails'
-# gem 'jquery-ui-rails'
-gem 'bootstrap-datepicker-rails'
 gem 'petfinder'
 gem 'pg'
 gem 'sass-rails', '~> 5.0'
